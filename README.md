@@ -37,8 +37,8 @@ Shot Situation Breakdown – Bar chart visualizing distribution of assisted, cor
 (All visuals generated using mplsoccer, matplotlib, and pandas.)
 
 # Tactical Implications
-HSV should focus on shot quality over quantity, creating more high-probability scoring chances closer to goal.
-Bayern Leverkusen can capitalize on fast-break opportunities and set-piece strategies.
+Bayern Leverkusen should focus on shot quality over quantity, creating more high-probability scoring chances closer to goal.
+HSV can capitalize on fast-break opportunities and set-piece strategies.
 Defensive adjustments can be made based on blocked shot zones to minimize opponent efficiency.
 Coaches can assess player performance using shooting accuracy and distance metrics to inform training and match strategy.
 
