@@ -12,20 +12,20 @@ Shot coordinates (X-Y location on the pitch)
 Average distance to goal per shot
 Shooting accuracy per player
 # Key Findings
-Shooting Efficiency:
+# Shooting Efficiency:
 Camilla Linberg had 100% shooting accuracy from 1 attempt.
 HSV generated more total shots but converted fewer than Bayern Leverkusen.
-Player Contributions:
+# Player Contributions:
 Most active shooters: Cornelia Kramer (5 shots), Katharina Piljić (4 shots), Vanessa Fudalla (4 shots).
-Top scorers: Camilla Linberg, Katharina Piljić, Julia Mickenhagen, Vanessa Fudalla.
-Shot Patterns & Situations:
-Majority of HSV’s shots came from assisted attacks and corners.
-Bayern Leverkusen relied on fast-breaks and set-pieces.
-Shot Locations:
+# Top scorers: Camilla Linberg, Katharina Piljić, Julia Mickenhagen, Vanessa Fudalla.
+# Shot Patterns & Situations:
+Majority of Bayern Leverkusen’s shots came from assisted attacks and corners.
+HSV relied on fast-breaks and set-pieces.
+# Shot Locations:
 Goals primarily came from inside the 20m range.
 Right-foot shots dominated across both teams.
 Several blocked or missed shots indicate defensive pressure and suboptimal positioning.
-Distance vs Accuracy Insight:
+# Distance vs Accuracy Insight:
 Players closer to goal generally had higher shooting accuracy.
 Long-range attempts often resulted in misses or blocks.
 # Visuals
