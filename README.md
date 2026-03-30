@@ -14,7 +14,7 @@ Shooting accuracy per player
 # Key Findings
 # Shooting Efficiency:
 Camilla Linberg had 100% shooting accuracy from 1 attempt.
-HSV generated more total shots but converted fewer than Bayern Leverkusen.
+Bayern Leverkusen generated more total shots but converted fewer than HSV.
 # Player Contributions:
 Most active shooters: Cornelia Kramer (5 shots), Katharina Piljić (4 shots), Vanessa Fudalla (4 shots).
 # Top scorers: Camilla Linberg, Katharina Piljić, Julia Mickenhagen, Vanessa Fudalla.
